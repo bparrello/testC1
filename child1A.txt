@@ -1,0 +1,3 @@
+Child file 1 A line 1
+Child file 1 A line 2
+Child file 1 A line 3
